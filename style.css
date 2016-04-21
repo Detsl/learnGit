@@ -1,0 +1,111 @@
+body { }
+/*!--.colomnum-1 {float: left; padding: 10px 15px;
+border-width: 1px;
+border-style: solid;
+border-color: blue; }*/
+
+.container {
+	color: white;
+    background: black;
+    
+/*!.about-me {
+    min-height: 100px;
+    margin: 0 20px;
+    padding: 10px;
+    background-color: rgba(241, 196, 15, 0.1) задаёт прозрачность.;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #cccccc;* это код для закруглённого элемента */
+   
+}
+.header {
+
+}
+
+
+.footer {text-align: center;}
+.article1 {margin-top: 50px;
+margin-bottom: 50px;}
+.menu-left {
+	display:block;
+padding: 5px 10px;
+margin-top: 3px;
+border-width: 1px;
+border-style: dashed;
+border-color: gray;
+color: white;
+    background: black; }
+.menu-center {display:block;
+margin-bottom: 5px;	
+padding: 5px 10px;
+border-width: 1px;
+border-style: dashed;
+border-color: gray; 
+float: }
+.sidebar-1 {
+
+padding: 20px 20px;
+width: 220px;
+margin-top: 230px;	
+margin-left: 35px;
+display:inline-block;}
+.sidebar-2 {width: 750px;
+	height: 560px;
+display:inline-block;
+position: absolute;
+top:95px;
+border-width: 1px;
+border-style: dashed;
+border-color: gray;}
+.sidebar-3{float:right;
+	width:215px;
+	height:250px;
+	margin-top: 6px;
+margin-right: 54px;
+border-width: 1px;
+border-style: dashed;
+border-color: gray; 
+}	
+.photoframe {
+	margin-left: 55px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position:absolute;
+	margin-bottom: 20px;
+	display:inline-block;
+width: 180px; height: 240px;}	
+.pic {width: 180px; height: 240px;}
+.map {height: 300px;}
+.login { padding: 1px 5px;
+	padding-right: 15px;
+	color: white;
+    background: black;
+    display:inline-block;
+position: absolute;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+top:10px; right:100px;
+}
+.logout {
+	padding: 1px 5px;
+	color: white;
+    background: black;
+    display:inline-block;
+position: absolute;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+top:50px; right:100px}
+.down-sidebar { border-width: 1px;
+	margin-left: 55px;
+	margin-right: 55px;
+	height: 500px;
+border-style: dashed;
+border-color: gray;}
+.notes {
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	
+border-style: dashed;
+border-color: gray;}
